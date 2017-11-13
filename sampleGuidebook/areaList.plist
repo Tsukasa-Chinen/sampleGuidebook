@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>東本願寺</key>
+	<dict>
+		<key>description</key>
+		<string>東本願寺は、浄土真宗「真宗大谷派」の本山で「真宗本廟」といい、御影堂には宗祖・親鸞聖人の御真影を、阿弥陀堂にはご本尊の阿弥陀如来を安置しています。宗祖親鸞聖人の亡き後、聖人を慕う多くの人々によって聖人の墳墓の地に御真影を安置する廟堂が建てられました。これが東本願寺の始まりです。</string>
+		<key>image</key>
+		<string>higashihongan.png</string>
+		<key>latitude</key>
+		<string>34.990890</string>
+		<key>longitude</key>
+		<string>135.758494</string>
+	</dict>
+	<key>清水寺</key>
+	<dict>
+		<key>description</key>
+		<string>清水寺は、京都府京都市東山区清水にある寺院。山号は音羽山。本尊は千手観音、開基は延鎮である。もとは法相宗に属したが、現在は独立して北法相宗大本山を名乗る。西国三十三所観音霊場の第16番札所である。</string>
+		<key>image</key>
+		<string>kiyomizudera.png</string>
+		<key>latitude</key>
+		<string>34.994807</string>
+		<key>longitude</key>
+		<string>135.784954</string>
+	</dict>
+	<key>晴明神社</key>
+	<dict>
+		<key>description</key>
+		<string>晴明神社は、京都市上京区にある神社である。安倍晴明を祀る。一条戻橋のたもとにあった晴明の屋敷跡に鎮座する。全国各地に同名の神社が存在する。旧社格は村社。</string>
+		<key>image</key>
+		<string>seimei.png</string>
+		<key>latitude</key>
+		<string>35.027733</string>
+		<key>longitude</key>
+		<string>135.751370</string>
+	</dict>
+	<key>伏見稲荷大社</key>
+	<dict>
+		<key>description</key>
+		<string>伏見稲荷大社は、京都市伏見区深草にある神社。旧称は稲荷神社。式内社、二十二社の一社。旧社格は官幣大社で、現在は神社本庁に属さない単立神社。稲荷山の麓に本殿があり、稲荷山全体を神域とする。本殿右には稲荷神明水がある。 全国に約3万社あるといわれる稲荷神社の総本社である。</string>
+		<key>image</key>
+		<string>fushimiinari.png</string>
+		<key>latitude</key>
+		<string>34.967086</string>
+		<key>longitude</key>
+		<string>135.772538</string>
+	</dict>
+	<key>蓮華王院　三十三間堂</key>
+	<dict>
+		<key>description</key>
+		<string>三十三間堂は京都府京都市東山区にある寺院の仏堂。建物の正式名称は蓮華王院本堂。同じ京都市東山区にある天台宗妙法院の境外仏堂であり同院が所有・管理している。元は後白河上皇が自身の離宮内に創建した仏堂。本尊は千手観音で蓮華王院は千手観音の別称蓮華王に由来する。</string>
+		<key>image</key>
+		<string>sanjyusangen.png</string>
+		<key>latitude</key>
+		<string>34.987735</string>
+		<key>longitude</key>
+		<string>135.771691</string>
+	</dict>
+</dict>
+</plist>
